@@ -6,7 +6,7 @@
         bod = document.querySelector('body')
         allContainer = document.getElementsByClassName
 
-a = alert('This is a OS dummy in WebFormat. All the rights of the parts of this website are reserved. Copying of any part of this website is not allowed without proper permission of owner')
+
         
         function bodyn() {
             body.style.display = 'none'
